@@ -5,4 +5,4 @@
 
 ### License
 
-The Laravel framework is Closer-sourced software licensed Gov. of India.
+This Application is Closer-sourced software.
