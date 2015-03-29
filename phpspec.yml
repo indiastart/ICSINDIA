@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ICSV1
+        psr4_prefix: ICSV1
+        src_path: app
